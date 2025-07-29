@@ -34,6 +34,8 @@ namespace Student_Grade_Tracker
                 return;
             }
             lstGrades.Items.Add($"{student} - {grade}");
+            lstGrades.Items.Add($"{student} - {grade}");
+            lstGrades.Items.Add($"{student} - {grade}");
             txtStudent.Clear();
             txtGrade.Clear();           
 
