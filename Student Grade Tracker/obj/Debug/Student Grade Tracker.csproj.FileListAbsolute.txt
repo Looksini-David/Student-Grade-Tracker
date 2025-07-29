@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.exe.config
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.exe
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.pdb
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student_Grade_Tracker.Form1.resources
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student_Grade_Tracker.Properties.Resources.resources
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.exe
+C:\Users\lenovo\Desktop\SCM-Practicals\Student Grade Tracker\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.pdb
